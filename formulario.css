@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'fonte';
+    src: url(xilosa.ttf);
+}
+h1{
+    font-family: fonte;
+    text-align: center;
+}
+div{
+    height: 400px;
+    border-radius: 15px;
+    position: relative;
+    right: -610px;
+    width: 310px;
+    box-shadow: 0px 1px 0px 2px #444;
+}
+body{
+    background:url(fundo.webp) no-repeat top right ,url(fundo.webp) no-repeat top left;
+    height: 200px;
+    background-size: 300px ;
+    background-color: #ffff9e;
+}
+.container form {
+    padding-top: 5px;
+}
+label{
+    position: relative;
+    right: -20px;
+}
+.todo{
+    position: relative;
+    right: -20px;
+    margin-top: 15px;
+}
+.forma{
+    margin-top: 100px;
+}
+#Compra{
+    position: relative;
+    top: 50px;
+    right: -85px;
+    font-size: large;
+    border: none;
+    background-color: #9c1111;
+    color: #ffff9e;
+}
+#inicio{
+    border: none;
+    position: relative;
+    right: -660px;
+    background-color: #ffff9e;
+    color: #9c1111;
+    font-family: fonte;
+    font-size: x-large;
+}

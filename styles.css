@@ -1,0 +1,93 @@
+@font-face {
+    font-family: 'fonte';
+    src: url(xilosa.ttf);
+}
+.produto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 15px;
+    
+}
+a{
+    text-decoration: none; 
+    font-size: x-large;
+    padding: 40px;
+    size: 50px;
+    color: #9c1111;
+    font-weight:bold;
+}
+.navegacao{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 15px;
+    font-family: fonte;
+    font-weight: lighter;
+}
+h1{
+    position: relative;
+    top: -15px;
+    text-align: center;
+    font-family: fonte;
+    color: orange;
+    font-weight: bold;
+    font-size: 50px;
+}
+.fotos_produtos{
+    width: auto;
+    height: auto;
+    max-width:200px;
+    max-height:150px;
+}
+#categorias{
+    font-family: fonte;
+    font-weight:normal;
+    font-size: 30px;
+}
+table{
+    border-width: inherit;
+}
+body{
+    background:url(fundo.webp) no-repeat top right ,url(fundo.webp) no-repeat top left;
+    height: 200px;
+    background-size: 300px ;
+    background-color: #ffff9e;
+}
+.linha{
+    height: 450px;
+    width: 300px;
+    border-radius: 15px;
+    box-shadow: 0px 1px 0px 2px rgba(0, 0, 0, 0.1);
+}
+.ultima{
+    width: 300px;
+    position: relative;
+    right: -600px;
+    border-radius: 15px;
+}
+.container{  
+    position: relative;
+    right: -400px;
+    width: 700px;
+    height: 470px;
+    border-width: 3px;
+    display: flex;
+    justify-content: space-between ;
+}
+a input{
+    font-size: large;
+    border: none;
+    background-color: #9c1111;
+    color: #ffff9e;
+}
+th .top:hover{
+    size: 20px 20px;
+    border-radius: 15px;
+    background-color: #9c1111;
+    color: #ffff9e;
+    transition: all .2s;
+    font-size: x-large;
+}
