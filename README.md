@@ -16,3 +16,4 @@ Projeto Principal HTML e CSS
 ![image](https://github.com/ThiagoManguinho/Loja_de_Artesanato/assets/142419724/a3e6bd69-1f26-44fb-853f-53bfc57c9378)
 ![image](https://github.com/ThiagoManguinho/Loja_de_Artesanato/assets/142419724/b4ab656d-c08d-4e4c-adbd-b03900ff5107)
 ![image](https://github.com/ThiagoManguinho/Loja_de_Artesanato/assets/142419724/487ad681-92c5-4e52-a4a0-d55dde5dc530)
+![image](https://github.com/ThiagoManguinho/Loja_de_Artesanato/assets/142419724/7766b3a6-a327-46d5-aade-383d5e98f089)
